@@ -1,0 +1,54 @@
+/*css*/
+
+
+#main{
+    height: 700px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    height: 120px;
+    width: 700px;
+    background-color: aliceblue;
+}
+
+#content{
+    height: 560px;
+    width: 700px;
+    background-color: black;
+    overflow: auto;
+
+}
+
+#inputs_login{
+    height: 350px;
+    width: 350px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.inputs{
+
+}
+
+#titulo{
+    height: 80px;
+    width: 350px;
+    background-color: #fff;
+    line-height: 80px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 33px;
+    font-style: normal;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+footer{
+    height: 20px;
+    width: 700px;
+    background-color: red;
+}
